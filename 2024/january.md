@@ -69,3 +69,53 @@ I don't have to use "event" to update states from "forms", and I can pass in a p
 ### References for the Future:
 
 - [Tailwind Docs](https://tailwindcss.com/docs/z-index)
+
+## January 5, 2023
+
+### Today I worked on:
+
+#### Eat the Rainbow:
+
+- Initial project setup
+  - Typescript React
+  - Tailwind
+- Project research
+  - Found good information on the FDA website
+  - Undecided if I need more
+
+**AH-HA!💡**
+
+A partial ah-ha, I've been debating weather to make Eat the Rainbow in HTML/CSS or use React. After thinking through some of the basic functionality, I think it would be nice to use React so that I can have states track a "what I'm planning to eat today" list to more easily see if you've eaten each color.
+
+**🎉 Celebrations 🎉**
+
+Excited to get started on Eat the Rainbow!
+
+### Bugs encountered 🐛🐞🐜 :
+
+🪲 None!
+
+### References Used Today:
+
+- [FDA Nutrition Information](https://www.fda.gov/food/food-labeling-nutrition/nutrition-information-raw-fruits-vegetables-and-fish)
+- [Vite Getting Started](https://vitejs.dev/guide/)
+
+### Any Blockers:
+
+✨None✨
+
+### Next I'm working on:
+
+#### Eat the Rainbow:
+
+- Building out a wire frame for the main page
+
+#### Seediy:
+
+- Work through the other forms to fix the foreign key display
+- Add z index to dropdowns to avoid them moving when opened.
+
+### References for Next Time:
+
+- [Excalidraw](https://excalidraw.com/)
+- [Tailwind Docs](https://tailwindcss.com/docs/z-index)

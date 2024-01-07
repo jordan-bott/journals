@@ -16,6 +16,6 @@
 
 ### Any Blockers:
 
-### Tomorrow I'm working on:
+### Next I'm working on:
 
-### References for Tomorrow:
+### References for Next Time:
